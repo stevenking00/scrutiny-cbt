@@ -1,0 +1,14 @@
+[
+  {
+    "text": "What is the capital of Nigeria?",
+    "options": ["Lagos", "Abuja", "Kano", "Ibadan"],
+    "correct": 1,
+    "explanation": "Abuja became capital in 1991."
+  },
+  {
+    "text": "Who wrote 'Things Fall Apart'?",
+    "options": ["Wole Soyinka", "Chinua Achebe", "Chimamanda Adichie", "Ben Okri"],
+    "correct": 1,
+    "explanation": "Chinua Achebe published it in 1958."
+  }
+]
